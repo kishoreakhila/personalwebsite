@@ -1,0 +1,4 @@
+Add this to the settings.xml file under apache-maven-3.6.3/conf/settings.xml.
+look for the word localrepository and add under that.
+Change the path to aditya or correct location on your laptop.
+<localRepository>/Users/akhilakishore/Desktop/personalwebsite/</localRepository>

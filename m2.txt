@@ -1,0 +1,14 @@
+This file should be under the path ~/.m2/settings.xml
+mkdir ~/.m2/
+cd ~/.m2
+vim settings.xml 
+<settings>
+    <servers>
+        <server>
+            <id>TomcatServer</id>
+            <username>admin</username>
+            <password>password</password>
+        </server>
+    </servers>
+</settings>
+
